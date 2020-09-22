@@ -95,4 +95,12 @@ export default {
   width: 100%;
   justify-content: space-between;
 }
+.information__container__item__2 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.information__container__item__2__content {
+  display: flex;
+}
 </style>
